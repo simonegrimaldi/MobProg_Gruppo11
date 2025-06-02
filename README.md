@@ -64,5 +64,5 @@ TomoTomo/
 ## Risorse utili
 
 Le slide relative al progetto sono disponibili al seguente link:  
-[Slide presentazione]([https://esempio.com/slide-mobile-programming.pdf](https://www.canva.com/design/DAGozyd1J9c/bqgY5MEndkDn-pq7Ilj5iw/view?utm_content=DAGozyd1J9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d82040a00))
+[Slide presentazione](https://www.canva.com/design/DAGozyd1J9c/bqgY5MEndkDn-pq7Ilj5iw/view?utm_content=DAGozyd1J9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d82040a00)
 
