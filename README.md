@@ -31,8 +31,8 @@ Assicurati di avere installato Node.js, Git e Expo CLI.
 
 1. Clona il repository
 ```
-git clone https://github.com/simonegrimaldi/TomoTomo.git
-cd TomoTomo
+git clone https://github.com/simonegrimaldi/MobProg_Gruppo11
+cd MobProg_Gruppo11
 ```
 2. Installa le dipendenze
 ```
